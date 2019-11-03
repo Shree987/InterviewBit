@@ -4,6 +4,7 @@ Min Steps in Infinite Grid
 
 Name : Shreeraksha R Aithal (@Shree987)
 College : NIT Karnataka
+Topic : Arrays
 Question link : https://www.interviewbit.com/problems/min-steps-in-infinite-grid/
 
 */

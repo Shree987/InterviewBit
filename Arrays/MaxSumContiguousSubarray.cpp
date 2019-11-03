@@ -4,6 +4,7 @@ Max Sum Contiguous Subarray
 
 Name : Shreeraksha R Aithal (@Shree987)
 College : NIT Karnataka
+Topic : Arrays
 Question link : https://www.interviewbit.com/problems/max-sum-contiguous-subarray/
 
 */
